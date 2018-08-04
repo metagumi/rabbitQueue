@@ -5,7 +5,7 @@ import java.util.concurrent.TimeoutException;
 
 import com.rabbitmq.client.*;
 
-
+//New comment
 public class Worker {
     private final static String TASK_QUEUE_NAME = "hello";
 
